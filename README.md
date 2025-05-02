@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Aydinv01
-- 👀 I’m interested in Python web development
-- 🌱 I’m currently learning Python and Front End Development
-- 💞️ I’m looking to collaborate on Tech Academy
+- 👋 Hi, I’m @
 
 
 <!---
